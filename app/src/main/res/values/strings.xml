@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ASEANProfiles</string>
+    <string name="asean_country">Asean Country</string>
+    <string name="date_list">Date List</string>
+    <string name="country_name">Country Name</string>
+    <string name="tanggal_bergabung">Tanggal Bergabung</string>
+    <string name="date_detail">Date Detail</string>
+    <string name="detail">Detail</string>
+    <string name="capital">Ibukota</string>
+    <string name="luas_wilayah">Luas Wilayah</string>
+    <string name="detail_luas">detail_luas</string>
+    <string name="detail_populasi">detail_populasi</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="detail_bahasa">detail_bahasa</string>
+    <string name="populasi">Populasi</string>
+    <string name="mata_uang">Mata Uang</string>
+    <string name="item_detail">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur culpa incidunt possimus praesentium quo? Deserunt earum laudantium nihil perspiciatis quis, vel? Debitis, dolorum eos facere hic in officia similique vel!</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="selviany">Selviany</string>
+    <string name="list">List</string>
+    <string name="about">About</string>
+</resources>
